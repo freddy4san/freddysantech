@@ -1,0 +1,65 @@
+about:
+  name: Freddy Sandoval
+  tagline: IT technichian
+  phone: "0401091074"
+  email: falexandersandoval@gmail.com
+  links:
+    - title: freddy4san
+      url: https://github.com/freddy4san
+      icon: fab fa-github
+  details: |
+    IT support engineer, enthusiastic and reliable person with a passion for the world of tech. 
+    As my career background is in Computer Science, I have deepened my knowledge in networking 
+    from recent studies as well as using hardware gadgets as a hobby. 
+    Mainly motivated by solving challenging situations and learning from new experiences. 
+    Also interested in setting up powerful hardware builds.
+
+
+skills:
+  - groupName: Virtualization & Network Configuration
+    list:
+      - VirtualBox - VmWare
+      - Cisco Packet Tracer - Active Directory
+      - Router Backup and Recovery - Network Troubleshooting
+
+  - groupName: Programming & Systems
+    list:
+      - Git - Python - Bash - Windows shell
+      - Linux - Windows - Mac - Cisco IOS
+      - MS Office
+
+interests:
+  - CCNA
+  - Network Automation
+  - Optimization Problems
+
+languages:
+  - name: Spanish
+    level: Native
+
+  - name: English
+    level: Professional
+
+# This will use the default widget: "details-list"
+awards:
+  # - title: "DNS Server - Home made Project"
+  #   date: "2021"
+  #   subtitle: "A Strategy to avoid advertisement Spam"
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field.
+    # links:
+    #   - title: example
+    #     url: https://mertbakir.gitlab.io
+    #     icon: fas fa-bolt
+    #     prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+certificates:
+  - title: "Supervised Learning: Regression"
+    subtitle: Coursera
+    date: "2020"
+    link: https://xkcd.com/605/ # This link will be on title level.
+
+#   - title: "Supervised Learning: Classification"
+#     subtitle: Coursera
+#     date: "2020"
+#     link: https://xkcd.com/388/

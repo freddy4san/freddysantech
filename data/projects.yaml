@@ -1,0 +1,17 @@
+projects:
+- title: "Raspberry Pi DNS Server "
+  subtitle: "Homemade Project"
+  date: "2021"
+  details: |
+    A Strategy to avoid advertisement Spam at home network
+
+# - title: "Resume - A4"
+#   subtitle: "mertbakir.gitlab.io/resume"
+#   link: "https://gitlab.com/mertbakir/resume-a4"
+#   date: "2020"
+#   details: |
+#     Bring CI/CD to your resume using YAML and Git."
+#   links:
+#   - title: Available in GitLab
+#     url: https://gitlab.com/mertbakir/resume-a4
+#     icon: fab fa-gitlab

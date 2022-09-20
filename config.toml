@@ -1,0 +1,4 @@
+baseURL = 'https://freddysan.tech/'
+languageCode = 'en-us'
+title = 'Freddy Sandoval Site'
+theme = 'resume-a4'

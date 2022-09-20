@@ -1,0 +1,25 @@
+- company: MCEC
+  roles:
+    - role: Customer Service
+      details: "Orienting and giving information to people regarding any event happening in the premises."
+      date: "11.2020-  Present"
+
+- company: ENELAR COL
+  roles: 
+    - role: Help Desk Analyst
+      details: "Responsible of Communications and tech devices used by the company staff in the head office.
+              Hardware maintenance and software updates of devices as well as new hardware Deployment and installation. "
+      date: "08.2017 - 09.2019"
+    
+    # - role: Junior Software Developer
+    #   date: "10.2018 - 06.2019"
+    #   details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+    #           Aenean nec volutpat arcu. Maecenas quis tempus risus. "
+
+- company: University of Pamplona
+  roles:
+    - role: Junior Software Developer Internship
+      details: "Transition to the new vesion of the software in the finance modules.
+                Develop the help system within the software in the module of billing and portafolio. 
+              As extra work was implemented a prototype of manual users using wikis."
+      date: "07.2016 - 11.2016"
